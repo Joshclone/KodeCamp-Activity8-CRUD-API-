@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-kodecamp",
+  "version": "1.0.0",
+  "description": "Introduction-to-NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Joshua Nwaeze",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
